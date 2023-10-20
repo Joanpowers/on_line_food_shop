@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(163, 218, 199);
+    background-image: url('../IMAGES/Strawberry-Water-006drink.webp');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+}
+.paragraph1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size:small;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: medium;
+    color:black ;
+}
+h1{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.topnav {
+    background-color:darkgrey;
+    overflow:hidden;
+    
+  }
